@@ -8,3 +8,5 @@
 Older version of my website (circa 2015-2017) dumped from a [previous commit](https://github.com/jglovier/jglovier.github.io/commit/4d390135eb7ec64cbe7207ad33a8558d616cc1a6) to this repo.
 
 This version of my site represented a pretty basic style redesign. The [previous version](https://github.com/jglovier/website-2013) was a sharp departure from my previous design, and quite rushed. This version simply built on the previous style by polishing the aesthetic direction and refining it a bit. I moved from a bright blue color theme to one that was much more toned down, allowing the content to really be the focus.
+
+**[Original redesign PR](https://2013.joelglovier.com/writing/redesigning-and-rebuilding)** :point_left::eyes:
